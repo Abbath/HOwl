@@ -1,1 +1,2 @@
-{"arguments":[1.0, {"1":2},["wobl","rhtowg","euassbnct","existence","stymes","eskmo"]],"expected":[["existence","existence"]]}
+{"arguments":[1.0, {"1":2}, ["wobl","rhtowg","euassbnct","existence","stymes","eskmo"]],"expected":[["wobl","rhtowg","euassbnct","existence","stymes","eskmo"]]}
+{"check" : 0}

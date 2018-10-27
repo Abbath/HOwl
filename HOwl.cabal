@@ -51,14 +51,16 @@ executable HOwl
   main-is:             checker.hs
 
   -- Modules included in this executable, other than Main.
-  -- other-modules:
+  other-modules:       Solution
+                       , Types
 
   -- LANGUAGE extensions used by modules in this package.
   other-extensions:    TemplateHaskell
 
   -- Other library packages from which modules are imported.
   build-depends:       base >=4.11 && <4.12, containers >=0.5 && <0.6, template-haskell >=2.13 && <2.14
-                       aeson
+                       , aeson
+                       , bytestring
 
   -- Directories containing source files.
   -- hs-source-dirs:
