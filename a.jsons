@@ -1,2 +1,2 @@
-{"arguments":[1.0, {"1":2}, ["wobl","rhtowg","euassbnct","existence","stymes","eskmo"]],"expected":[["wobl","rhtowg","euassbnct","existence","stymes","eskmo"]]}
+{"arguments" : [1,1], "expected" : 2}
 {"check" : 0}
